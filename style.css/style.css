@@ -1,0 +1,183 @@
+body{
+    background-color: rgb(5, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 10;
+    color: rgb(238, 224, 36);
+}
+
+.det h1{
+    color: white;
+}
+p{
+    color: white;
+}
+
+.det{
+    margin: 50px;
+    width: 600px;
+    height: 20px;
+    position: relative;
+    bottom: 700px;
+    text-align:left;
+    font-style: italic;
+    Font-stretch: expanded;
+
+}
+
+.pic{
+    position: relative;
+    left: 600px;
+    bottom: 100px;
+    display: inline-block;
+    border-color: yellow;
+    
+}
+
+.det a:link{
+    position: relative;
+    left: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1{
+    color: yellow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
+
+.det2{
+    margin: 30px;
+    font-size: 16px;
+
+}
+
+nav ul li{
+    list-style: none;
+}
+nav ul li{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 25px;
+    font-weight: 500;
+    color: black;
+}
+.flex{
+    color: black;
+    
+    display: flex;
+    align-items: center;
+    font-family:serif;
+}
+nav input{
+    color: black;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    padding: 8px 15px;
+    padding-left: 33px;
+    border: 2px solid yellow;
+    font-size: 16px;
+    height:13px;
+    width:100%;
+}
+a:link{
+    border: 1px solid rgb(236, 227, 227);
+    background-color: rgb(255, 234, 43);
+    color: black;
+    padding: 10px;
+    position: relative;
+    left: 700px;
+    border-radius: 30px;
+    text-decoration: none;
+    text-shadow: 10px solid gray;
+    list-style: none;
+    
+    
+}
+a:hover, a:active{
+    background-color: yellow;
+}
+
+#port{
+    margin: 50px;
+    font-size: 48px;
+    color: yellow;
+}
+.det2{
+    position: relative;
+    bottom: 100px;
+}
+.det2 p{
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+    width: 900px;
+    height: 125px;
+    font-size: 24px;
+    position: relative;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid yellow;
+}
+
+
+.det2 a:link{
+    margin: 8px;
+    position:relative;
+    padding: 12px;
+    left: 5px;
+    font-family:serif;
+    font-size: 24px;
+    color: black;
+}
+
+.det3{
+    text-align: justify;
+    margin: 50px;
+    width: 500px;
+    height: 20px;
+    position: relative;
+    text-align:left;
+    font-style: italic;
+    Font-stretch: expanded;
+    
+}
+
+.det3 img{
+    position: relative;
+    left: 700px;
+    bottom: 300px;
+}
+
+.det3 p{
+    
+    font-size: 26px;
+    
+    
+}
+
+footer{
+    position: relative;
+    top:1300px;
+    border: 1px solid yellow;
+    border-radius: 20px;
+    width: 1200px;
+    height: 500px;
+    margin: 20px;
+    padding: 30px;
+    font-size: 22px;
+}
+
+footer a:link{
+    position: relative;
+    left: 10px;
+}
+
+.skill{
+    margin: 40px;
+    font-family: serif;
+}
+
+
